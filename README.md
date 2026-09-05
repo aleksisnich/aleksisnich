@@ -32,7 +32,7 @@ Python Developer / ML Engineer with experience in applied machine learning, data
 
 ## Projects
 
-### Python Course & Practice
+### Python & ML Practice
 Collection of Python exercises and small projects covering Python basics, SQL, data processing, web technologies and machine learning.
 
 > Some professional and research projects are not publicly available due to source code and confidentiality restrictions.
